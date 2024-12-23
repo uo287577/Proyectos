@@ -1,0 +1,16 @@
+- Generador de contraseñas en python
+
+- Un menú por consola en java sobre una aplicación a pensar
+- Un menú por interfaz en java sobre una aplicación a pensar
+
+- Un monopoly en java con interfaz
+- Un ajedrez en java con interfaz
+- Un buscaminas en java con interfaz
+- Un parchís en java con interfaz (EN DESARROLLO)
+
+- Un editor de texto con selección de archivos por consola en python
+
+- Buscar un proyecto a desarrollar en C/C++
+
+
+
