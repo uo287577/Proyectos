@@ -1,7 +1,3 @@
--Hacer un parchís con HTML, CSS y JS en vez de con Java, y subirlo al
-GitHub Pages
-
-
 -El generador de contraseñas quiero que consuma servicios web a una API
 que permita averiguar cuanto se tarda en descifrar la contraseña
 generada, si no cumple el mínimo de tiempo que queremos que se tarde
