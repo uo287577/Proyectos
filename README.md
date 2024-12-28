@@ -9,7 +9,7 @@ Parchís en java con interfaz ⏳<br>
 
 <h2>Pendientes</h2>
 Generador de pines seguros 🔜<br>
-Generador de pines seguros 🔜<br>
+Descifrador de contraseñas 🔜<br>
 Monopoly, ajedrez, buscaminas y parchís en JS (desplegarlo en Pages) 🔜<br>
 
 <h2>Ideas</h2>
