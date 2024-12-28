@@ -16,7 +16,6 @@ Monopoly, ajedrez, buscaminas y parchís en JS (desplegarlo en Pages) 🔜<br>
 Un menú por consola sobre una aplicación a pensar 💭<br>
 Un menú por interfaz sobre una aplicación a pensar 💭<br>
 Un editor de texto con selección de archivos por consola 💭<br>
-Buscar un proyecto a desarrollar en C/C++ 💭<br>
-
+Buscar un proyecto a desarrollar en C/C++ 💭<br> <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uo287577&theme=dark" width="48%" > <img src="https://github-readme-stats.vercel.app/api?username=uo287577&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
