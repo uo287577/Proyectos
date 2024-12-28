@@ -1,11 +1,14 @@
-- Generador de contraseñas en python
+- Generador de contraseñas en python (HECHO)
+- Generador de pines en python 
 
 - Un menú por consola en java sobre una aplicación a pensar
 - Un menú por interfaz en java sobre una aplicación a pensar
 
-- Un monopoly en java con interfaz
-- Un ajedrez en java con interfaz
-- Un buscaminas en java con interfaz
+- Un monopoly en JS
+- Un ajedrez en JS
+- Un buscaminas en JS
+- Un parchís en JS
+
 - Un parchís en java con interfaz (EN DESARROLLO)
 
 - Un editor de texto con selección de archivos por consola en python
