@@ -2,7 +2,7 @@
 
 <h2>Terminados</h2>
 Convertidor YT a MP4 ✔️<br>
-Generador de contraseñas seguras (faltan las opciones de generación por consola) ✔️<br>
+Generador de contraseñas seguras (faltan las opciones de generación por consola e instrucciones explicando los tiempos de generación y cómo usarlo) ✔️<br>
 
 <h2>En desarrollo</h2>
 Parchís en java con interfaz ⏳<br>
