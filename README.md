@@ -1,7 +1,7 @@
 <h1 align="center">Repositorio de mis proyectos personales</h1>
 
 <h2>Terminados</h2>
-Convertidor YT a MP4 ✔️<br>
+Convertidor YT a MP4 (HACERLO EJECUTABLE)✔️<br>
 
 <h2>En desarrollo</h2>
 Generador de contraseñas seguras ⏳
