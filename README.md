@@ -39,4 +39,4 @@
   <li>Buscar un proyecto a desarrollar en C/C++</li>
 </ul>
 
-![Contador estrellas](https://streak-stats.demolab.com/?user=uo287577) ![Estadísticas del perfil de github](https://github-readme-stats.vercel.app/api?username=uo287577&show_icons=true&theme=gotham)
+[![Rachas de github](https://github-readme-streak-stats.herokuapp.com?user=uo287577&theme=modern-lilac2)](https://git.io/streak-stats) ![Estadísticas del perfil de github](https://github-readme-stats.vercel.app/api?username=uo287577&show_icons=true&theme=gotham)
