@@ -7,26 +7,37 @@
 
 <h2>En desarrollo ⏳</h2>
 <ul>
-  <li>Generador de contraseñas seguras 
+  <li><a href="https://github.com/uo287577/Proyectos/tree/main/Python/Generador%20de%20contraseñas" title="Enlace al código del generador de contraseñas seguras">Generador de contraseñas seguras</a>
     <ul>
+      <li>Función asíncrona que diga al usuario que la contraseña se está generando 🛠️</li>
       <li>Opciones de generación por consola (mayúsculas, minúsculas, especiales) 🛠️</li>
       <li>Opción de poder especificar una longitud (sólo permitimos que esté en un rango eficiente) 🛠️</li>
       <li>A priori que sólo se pueda elegir el nivel de seguridad y no la longitud de la contraseña a generar 🛠️</li>
       <li>Explicar los tiempos de generación y cómo usarlo 🛠️</li>
     </ul>
   </li>
-  <li>Parchís en java con interfaz</li>
+  <li><a href="https://github.com/uo287577/Proyectos/tree/main/Java/Parchís" title="Enlace al código del parchis desarrollado en java con interfaz gráfica">Parchís en java con interfaz</a></li>
 </ul>
 
 <h2>Pendientes 🔜</h2>
-Generador de pines seguros <br>
-Descifrador de contraseñas <br>
-Monopoly, ajedrez, buscaminas y parchís en JS (desplegarlo en Pages) <br>
+<ul>
+  <li>Buscaminas en Python</li>
+  <li>Generador de pines seguros</li>
+  <li>Descifrador de contraseñas</li>
+  <li>Monopoly en JS (desplegarlo en Pages)</li>
+  <li>Ajedrez en JS (desplegarlo en Pages)</li>
+  <li>Buscaminas en JS (desplegarlo en Pages)</li>
+  <li>Parchís en JS (desplegarlo en Pages)</li>
+</ul>
 
 <h2>Ideas 💭</h2>
-Un menú por consola sobre una aplicación a pensar <br>
-Un menú por interfaz sobre una aplicación a pensar <br>
-Un editor de texto con selección de archivos por consola <br>
-Buscar un proyecto a desarrollar en C/C++ <br> <br>
+<ul>
+  <li>Aplicación con interfaz gráfica y multihilo en C#</li>
+  <li>Un menú por consola sobre una aplicación a pensar</li>
+  <li>Un menú por interfaz sobre una aplicación a pensar</li>
+  <li>Un editor de texto con selección de archivos por consola</li>
+  <li>Buscar un proyecto a desarrollar en C/C++</li>
+</ul>
 
+<br> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uo287577&theme=dark" width="48%" > <img src="https://github-readme-stats.vercel.app/api?username=uo287577&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
