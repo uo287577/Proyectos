@@ -41,7 +41,7 @@
 
 <br> <br>
 
-<footer display="flex" flex-direction="row" width="90vw">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uo287577&theme=dark" alt="Contador estrellas" /> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uo287577&theme=dark" alt="Contador estrellas" />
   <img src="https://github-readme-stats.vercel.app/api?username=uo287577&show_icons=true&theme=gotham" alt="Estadísticas del perfil de github" />
-</footer>
+</p>
