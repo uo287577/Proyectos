@@ -1,7 +1,7 @@
 <h1 align="center">Repositorio de mis proyectos personales</h1>
 
 <h2>Terminados ✔️</h2>
-<a href="https://github.com/uo287577/Proyectos/tree/main/Python/Convertidor%20yt%20a%20mp4" title="Enlace al código del convertidor YT a MP4">Convertidor YT a MP4</a><br>
+<a href="https://github.com/uo287577/Proyectos/tree/main/Python/Convertidor%20yt%20a%20mp4" title="Enlace al código del convertidor YT a MP4">Convertidor YT a MP4 [❗OBSOLETO❗]</a><br>
 
 <h2>En desarrollo</h2>
 Generador de contraseñas seguras ⏳
