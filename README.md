@@ -1,7 +1,7 @@
 <h1 align="center">Repositorio de mis proyectos personales</h1>
 
 <h2>Terminados</h2>
-Convertidor YT a MP4 (HACERLO EJECUTABLE)✔️<br>
+Convertidor YT a MP4 (HACERLO EJECUTABLE) [REHACERLO PARA QUE DIRECTAMENTE ESCRIBA UN BINARIO CON EL VIDEO DESCARGADO (LEERSE LA DOCUMENTACION DE PYTUBE)] ✔️<br>
 
 <h2>En desarrollo</h2>
 Generador de contraseñas seguras ⏳
