@@ -39,4 +39,6 @@
   <li>Buscar un proyecto a desarrollar en C/C++</li>
 </ul>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=uo287577&theme=buefy-dark" alt="Rachas de github" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=uo287577&theme=buefy-dark" alt="Rachas de github" />
+</div>
