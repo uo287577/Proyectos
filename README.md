@@ -39,4 +39,4 @@
   <li>Buscar un proyecto a desarrollar en C/C++</li>
 </ul>
 
-![Rachas de github](https://github-readme-streak-stats.herokuapp.com?user=uo287577&theme=buefy-dark) ![Estadísticas del perfil de github](https://github-readme-stats.vercel.app/api?username=uo287577&show_icons=true&theme=gotham)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=uo287577&theme=buefy-dark" alt="Rachas de github" />
