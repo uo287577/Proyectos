@@ -21,6 +21,7 @@
 
 <h2>Pendientes 🔜</h2>
 <ul>
+  <li>Copiloto de notas de rally usando mapbox (tienes el link de lo necesario en el portatil) [No hace falta decir que se va a hacer en JS y que hay que desplegarlo en Pages]</li>
   <li>Buscaminas en Python</li>
   <li>Generador de pines seguros</li>
   <li>Descifrador de contraseñas</li>
