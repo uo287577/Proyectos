@@ -13,12 +13,6 @@ catalogoSeguridad = {
     4: "Máximo"
 }
 
-def imprimirPresentacion():
-    print("\t==============================================================")
-    print("\tGenerador de contraseñas seguras")
-    print("\tAutor: Miguel Fernández Huerta")
-    print("\t==============================================================")
-
 async def confirmacionProceso():
     entrada = str(input("\tPulse cualquier tecla para iniciar el proceso de generación de contraseña"))
     if(entrada != None):
@@ -48,6 +42,12 @@ def imprimirResultados(password, estimacionFiltrado):
     print("\tContraseña generada:", password)
     print("\tTiempo estimado para que logren adivinar la contraseña:", estimacionFiltrado)
     print("\t==============================================================\n")
+
+def imprimirPresentacion():
+    print("\t==============================================================")
+    print("\tGenerador de contraseñas seguras")
+    print("\tAutor: Miguel Fernández Huerta")
+    print("\t==============================================================")
 
 def main():
     imprimirPresentacion()

@@ -13,7 +13,20 @@ def descargar_video(url):
     except Exception as e:
         print("Ocurrió un error:", str(e))
 
-url = None
-while url == None:
-    url = input("Introduce la URL del video de YouTube: ")
-descargar_video(url)
+def solicitarURL():
+    url = None
+    while url == None:
+        url = input("Introduce la URL del video de YouTube: ")
+    return url
+
+def imprimirPresentacion():
+    print("\t==============================================================")
+    print("\tConvertidor de vídeos de Youtube a mp4")
+    print("\tAutor: Miguel Fernández Huerta")
+    print("\t==============================================================")
+
+def main():
+    imprimirPresentacion()
+    descargar_video(solicitarURL())
+
+main()
