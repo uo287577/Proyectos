@@ -3,19 +3,11 @@
 <h2>Terminados ✔️</h2>
 <ul>
   <li><a href="https://github.com/uo287577/Proyectos/tree/main/Python/Convertidor%20yt%20a%20mp4" title="Enlace al código del convertidor YT a MP4">Convertidor YT a MP4</a> [❗OBSOLETO❗]</li>
+  <li><a href="https://github.com/uo287577/Proyectos/tree/main/Python/Generador%20de%20contraseñas" title="Enlace al código del generador de contraseñas seguras">Generador de contraseñas seguras</a></li>
 </ul>
 
 <h2>En desarrollo ⏳</h2>
 <ul>
-  <li><a href="https://github.com/uo287577/Proyectos/tree/main/Python/Generador%20de%20contraseñas" title="Enlace al código del generador de contraseñas seguras">Generador de contraseñas seguras</a>
-    <ul>
-      <li>Función asíncrona que diga al usuario que la contraseña se está generando 🛠️</li>
-      <li>Opciones de generación por consola (mayúsculas, minúsculas, especiales) 🛠️</li>
-      <li>Opción de poder especificar una longitud (sólo permitimos que esté en un rango eficiente) 🛠️</li>
-      <li>A priori que sólo se pueda elegir el nivel de seguridad y no la longitud de la contraseña a generar 🛠️</li>
-      <li>Explicar los tiempos de generación y cómo usarlo 🛠️</li>
-    </ul>
-  </li>
   <li><a href="https://github.com/uo287577/Proyectos/tree/main/Java/Parchís" title="Enlace al código del parchis desarrollado en java con interfaz gráfica">Parchís en java con interfaz</a></li>
 </ul>
 
