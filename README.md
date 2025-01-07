@@ -4,6 +4,7 @@
 <ul>
   <li><a href="https://github.com/uo287577/Proyectos/tree/main/Python/Convertidor%20yt%20a%20mp4" title="Enlace al código del convertidor YT a MP4">Convertidor YT a MP4</a> [❗OBSOLETO❗]</li>
   <li><a href="https://github.com/uo287577/Proyectos/tree/main/Python/Generador%20de%20contraseñas" title="Enlace al código del generador de contraseñas seguras">Generador de contraseñas seguras</a></li>
+  <li><a href="https://github.com/uo287577/Proyectos/tree/main/Python/Casa%20de%20los%20juegos" title="Enlace al código del buscaminas en Python">Buscaminas en Python</li>
 </ul>
 
 <h2>En desarrollo ⏳</h2>
@@ -15,7 +16,6 @@
 <ul>
   <li>Una ToDo list con selección de la tarea por consola y su correspondiente marcado (tick)</li>
   <li>Copiloto de notas de rally usando mapbox (tienes el link de lo necesario en el portatil) [No hace falta decir que se va a hacer en JS y que hay que desplegarlo en Pages]</li>
-  <li>Buscaminas en Python</li>
   <li>Generador de pines seguros</li>
   <li>Descifrador de contraseñas</li>
   <li>Monopoly en JS (desplegarlo en Pages)</li>
